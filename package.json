@@ -1,0 +1,19 @@
+{
+  "name": "dsc",
+  "version": "1.0.0",
+  "description": "Website for dsc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scientist-Ansh/Dsc.git"
+  },
+  "author": "Ansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scientist-Ansh/Dsc/issues"
+  },
+  "homepage": "https://github.com/Scientist-Ansh/Dsc#readme"
+}
